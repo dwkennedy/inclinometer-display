@@ -21,7 +21,6 @@ Hardware requirements:
      12VDC, 500mA power supply with barrel connector -or- 5VDC, 1A with micro USB connector
      
 Software requirements:
-
      GroteskBold32x64.c was downloaded from http://www.rinkydinkelectronics.com/r_fonts.php
      The excellent UTFT library from http://www.rinkydinkelectronics.com/library.php?id=51
      
@@ -51,3 +50,7 @@ System description:
   
   Just FYI version 1.0 had a 2x20 dot matrix LCD display, and vastly inferior in many other ways :)
   
+CHANGELOG
+
+3/9/2018:  inclinometer3.ino has a landscape display instead of portrait
+
